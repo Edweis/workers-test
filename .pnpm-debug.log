@@ -4,7 +4,7 @@
   },
   "1 error pnpm": {
     "code": "ERR_PNPM_INIT_ARG",
-    "hint": "Maybe you wanted to run \"pnpm create cloudflare workers-test https://github.com/Edweis/workers-test\"",
+    "hint": "Maybe you wanted to run \"pnpm create cloudflare my-app https://github.com/cloudflare/worker-typescript-template\"",
     "err": {
       "name": "pnpm",
       "message": "init command does not accept any arguments",
